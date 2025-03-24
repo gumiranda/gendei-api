@@ -75,7 +75,7 @@
     "core-js": "^3.40.0",
     "crypto-js": "^4.2.0",
     "date-fns": "^2.30.0",
-    "date-fns-tz": "^2.0.0",
+    "date-fns-tz": "^3.2.0",
     "deep-email-validator": "^0.1.21",
     "fastify": "5.2.1",
     "ioredis": "^5.5.0",
